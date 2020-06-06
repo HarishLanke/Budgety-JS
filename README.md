@@ -1,2 +1,1 @@
 ## Budgety-JS
-#js
