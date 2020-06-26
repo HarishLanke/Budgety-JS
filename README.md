@@ -5,6 +5,7 @@ Small JavaScript application to manage budget income and expenses
 ## Getting Started
 
 Link for Demo : https://harishlanke.github.io/Budgety-JS/
+[Website Link](https://harishlanke.github.io/Budgety-JS/)
 
 ### Prerequisites
 
